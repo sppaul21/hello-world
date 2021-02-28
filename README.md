@@ -1,5 +1,7 @@
 # hello-world
 
 
+CSE 360 hello world git demo.
 
-I am tall. 
+
+Sarah Paul
